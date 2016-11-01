@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ComplexListview.iml" filepath="$PROJECT_DIR$/ComplexListview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complexListview/complexApp.iml" filepath="$PROJECT_DIR$/complexListview/complexApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complexListview/complexListview.iml" filepath="$PROJECT_DIR$/complexListview/complexListview.iml" />
+    </modules>
+  </component>
+</project>
