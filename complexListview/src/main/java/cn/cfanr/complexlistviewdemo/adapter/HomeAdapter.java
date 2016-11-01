@@ -174,9 +174,7 @@ public class HomeAdapter extends BaseAdapter{
         }
         return super.getItemViewType(position);
     }
-    //系统在判断是否有convertView时，会自动去调用getItemViewType (int position) ，查看当前position的homeItem的类型
-    //但是如何知道convertView类型呢？
-    //当ListView要显示某一项时，getItemViewType方法被调用，根据返回值在mRecycler搜索得到缓存的视图。怎么找的？
+
 
     @Override
     public int getViewTypeCount(){
